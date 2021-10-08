@@ -24,3 +24,16 @@ C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\Ordinam
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.dll
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.genruntimeconfig.cache
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.exe
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.deps.json
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.runtimeconfig.json
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.runtimeconfig.dev.json
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.dll
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.csproj.AssemblyReference.cache
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.AssemblyInfoInputs.cache
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.AssemblyInfo.cs
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.dll
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
+C:\Users\nicolas.mancini.ITT\Documents\ProgettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.genruntimeconfig.cache
